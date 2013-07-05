@@ -1,0 +1,5 @@
+1. instal web server (WAMP atau XAMPP)
+2. extract file spp.zip di webroot
+3. buka file main.php (di folder spp/protected/config/)
+4. ganti nama database, username dan password untuk database.
+5. selesai
